@@ -1,0 +1,12 @@
+[
+	{ "name": "USA", "population": 331002651, "capital": "Washington, D.C." },
+	{ "name": "China", "population": 1444216107, "capital": "Beijing" },
+	{ "name": "India", "population": 1380004385, "capital": "New Delhi" },
+	{ "name": "Brazil", "population": 212559417, "capital": "Brasília" },
+	{ "name": "Russia", "population": 145912025, "capital": "Moscow" },
+	{ "name": "Japan", "population": 126476461, "capital": "Tokyo" },
+	{ "name": "Germany", "population": 83783942, "capital": "Berlin" },
+	{ "name": "France", "population": 65273511, "capital": "Paris" },
+	{ "name": "United Kingdom", "population": 67886011, "capital": "London" },
+	{ "name": "Canada", "population": 37742154, "capital": "Ottawa" }
+]

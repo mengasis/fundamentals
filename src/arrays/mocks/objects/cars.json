@@ -1,0 +1,12 @@
+[
+	{ "brand": "Toyota", "model": "Camry", "year": 2022 },
+	{ "brand": "Honda", "model": "Civic", "year": 2021 },
+	{ "brand": "Ford", "model": "Mustang", "year": 2023 },
+	{ "brand": "Chevrolet", "model": "Malibu", "year": 2022 },
+	{ "brand": "BMW", "model": "X5", "year": 2023 },
+	{ "brand": "Mercedes-Benz", "model": "C-Class", "year": 2021 },
+	{ "brand": "Tesla", "model": "Model 3", "year": 2022 },
+	{ "brand": "Nissan", "model": "Altima", "year": 2023 },
+	{ "brand": "Audi", "model": "A4", "year": 2021 },
+	{ "brand": "Hyundai", "model": "Elantra", "year": 2022 }
+]

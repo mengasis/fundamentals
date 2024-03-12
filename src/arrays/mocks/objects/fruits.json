@@ -1,0 +1,12 @@
+[
+	{ "name": "Apple", "color": "Red" },
+	{ "name": "Banana", "color": "Yellow" },
+	{ "name": "Orange", "color": "Orange" },
+	{ "name": "Grape", "color": "Purple" },
+	{ "name": "Kiwi", "color": "Brown" },
+	{ "name": "Strawberry", "color": "Red" },
+	{ "name": "Blueberry", "color": "Blue" },
+	{ "name": "Watermelon", "color": "Green/Red" },
+	{ "name": "Pineapple", "color": "Yellow" },
+	{ "name": "Mango", "color": "Orange/Yellow" }
+]
